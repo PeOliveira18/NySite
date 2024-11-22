@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'Juletanny';
+    src: url('./fonts/Juletany/Juletany.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'Classico';
+    src: url('./fonts/Classico/Classico-Bold.otf') format('opentype');
+}
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url('./fonts/Montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'Montserrat-Thin';
+    src: url('./fonts/Montserrat/Montserrat-Thin.ttf') format('truetype');
+}
+
+@layer components{
+    
+}
+
